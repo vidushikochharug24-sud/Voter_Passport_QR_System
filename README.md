@@ -2,7 +2,13 @@
 -> Project Overview
 Voter Passport QR System is a hackathon project aimed at enabling seamless inter-state voter registration updates using a QR-based Voter Passport.
 The system is designed to ensure one active voter registration per citizen, prevent duplication across states, and improve voter accessibility through a simple, tech-driven interface.
-(This repository currently contains the frontend application and a chatbot prototype, with backend integration under development.)
+
+## My contribution:
+-Developed the Frontend: Built a responsive interface using React.js, JavaScript, and CSS.
+-Enabled Voter Mobility: Designed the system to support inter-state voter mobility, helping to reduce administrative duplication.
+-Created QR Workflows: Implemented user-friendly workflows for voter verification and status updates via QR codes.
+-Improved Efficiency: Focused on enhancing the accuracy and efficiency of voter data handling through the digital interface.
+-Simplified UI for Diverse Groups: Designed an intuitive UI specifically aimed at making interactions simple for a wide range of user groups.
 
 ## Team Members: 
 1. Vidushi Kochhar (Team Leader) - NSUT
